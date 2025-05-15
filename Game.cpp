@@ -1,3 +1,5 @@
+//In leaderBoard Press Enter to go back to the previous page
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
